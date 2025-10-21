@@ -1,6 +1,30 @@
-<!-- Banner (you can customize or use an SVG generator online) -->
 <p align="center">
-  <img src="https://readme-hero-images.s3.amazonaws.com/your-banner.png" alt="Akshay's Banner" width="100%" />
+  <svg width="100%" height="130">
+    <defs>
+      <linearGradient id="a" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#22223B"/>
+        <stop offset="100%" stop-color="#4A4E69"/>
+      </linearGradient>
+      <filter id="blur" x="-10%" y="-10%" width="120%" height="120%">
+        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <rect width="100%" height="130" fill="url(#a)" filter="url(#blur)" rx="15"/>
+    <text x="50%" y="50" text-anchor="middle" alignment-baseline="middle" font-size="36"
+          fill="#F2E9E4" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="bold">
+      Akshay | Fullstack Developer
+    </text>
+    <text x="50%" y="85" text-anchor="middle" alignment-baseline="middle" font-size="18"
+          fill="#9A8C98" font-family="Segoe UI, Ubuntu, sans-serif">
+      3rd Year Computer Engineering Undergraduate
+    </text>
+    <!-- code brackets icon -->
+    <text x="80%" y="38" font-size="34" alignment-baseline="middle" text-anchor="middle" font-family="monospace" fill="#F2E9E4">&#60;/&#62;</text>
+  </svg>
 </p>
 
 <h1 align="center">Hi 👋, I'm Akshay</h1>
