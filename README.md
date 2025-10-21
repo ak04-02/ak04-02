@@ -37,7 +37,7 @@
 
 ### 🚀 About Me
 
-- 🎓 2nd Year Undergraduate | Developer & Builder
+- 🎓 3rd Year Undergraduate | Developer & Builder
 - 💻 I love building fullstack web apps and cool UIs
 - 🔍 Exploring: AI image generation | Open Source | ML projects | System Programming (C/C++, OpenGL/FreeGLUT)
 - 🌟 **Always learning, always building!**
