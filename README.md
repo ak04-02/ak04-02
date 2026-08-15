@@ -23,7 +23,7 @@
       3rd Year Computer Engineering Undergraduate
     </text>
     <!-- code brackets icon -->
-    <text x="80%" y="38" font-size="34" alignment-baseline="middle" text-anchor="middle" font-family="monospace" fill="#F2E9E4">&#60;/&#62;</text>
+    <text x="80%" y="38" font-size="34" alignment-baseline="middle" text-anchor="middle" font-family="monospace" fill="#F2E9E4"></text>
   </svg>
 </p>
 
